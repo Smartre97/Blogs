@@ -1,7 +1,8 @@
 # 🌟 一个菜鸟尝试写的个人博客
 
-该博客页面最初forked from heiehiehi/XinghuisamaBlogs
-GitHub 开源地址：https://github.com/heiehiehi/XinghuisamaBlogs
+该博客页面forked from heiehiehi/XinghuisamaBlogs
+
+原GitHub 开源地址：https://github.com/heiehiehi/XinghuisamaBlogs
 
 核心技术栈：
 框架：Next.js 15 (App Router)
