@@ -1,13 +1,17 @@
 # 🌟 一个菜鸟尝试写的个人博客
 
-该博客页面forked from heiehiehi/XinghuisamaBlogs
+该项目forked from heiehiehi/XinghuisamaBlogs（[https://github.com/heiehiehi/XinghuisamaBlogs](https://github.com/heiehiehi/XinghuisamaBlogs)）
 
-原GitHub 开源地址：https://github.com/heiehiehi/XinghuisamaBlogs
+原项目采用 **CC BY-NC 4.0** 许可协议。
 
 核心技术栈：
+
 框架：Next.js 15 (App Router)
+
 核心：React 19
+
 样式：Tailwind CSS 4 + 极致毛玻璃特效
+
 部署与存储：配合 GitHub / 云存储
 
 ---
@@ -16,7 +20,21 @@
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](README_en.md)
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.md)
 
-## 一、快速开始部署
+
+
+
+
+
+
+
+
+
+
+
+
+## 一、博客部署
+
+下面是源于原来的项目中的博客部署方式，更新时间为2026年5月16日
 
 ### 1. 环境配置
 
@@ -362,7 +380,3 @@ Vercel 默认会为你分配一个免费的二级域名：
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 > 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。允许免费学习、分享和二次修改后发布（二次开源发布需提及原作者），但**严禁用于任何商业用途**。
-
-#### 5. 环境变量
-
-> 所需环境变量增多，请注意！
