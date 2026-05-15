@@ -1,7 +1,7 @@
 {
-  "blogPath": "D:\\DEVC++\\XinghuisamaBlogs\\XHBlogs",
+  "blogPath": "E:\\_MyBlog\\Blogs\\XHBlogs",
   "staticRepoUrl": "",
   "staticBranch": "gh-pages",
-  "sourceRepoUrl": "",
+  "sourceRepoUrl": "https://github.com/Smartre97/XHBlogs.git",
   "sourceBranch": "main"
 }
