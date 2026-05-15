@@ -1,42 +1,19 @@
-# 🌟 欢迎使用 XHBlogs！
+# 🌟 一个菜鸟尝试写的个人博客
 
-这是一个采用 Next.js 构建的高颜值、毛玻璃（Glassmorphism）风格个人博客系统。本项目自带完善的前端展示与独立的本地后台控制台，支持 Markdown 沉浸式写作、草稿管理以及便捷的图床配置。
+该博客页面最初forked from heiehiehi/XinghuisamaBlogs
+GitHub 开源地址：https://github.com/heiehiehi/XinghuisamaBlogs
 
-本指南将带你从零开始，轻松部署并使用 XHBlogs。
+核心技术栈：
+框架：Next.js 15 (App Router)
+核心：React 19
+样式：Tailwind CSS 4 + 极致毛玻璃特效
+部署与存储：配合 GitHub / 云存储
 
 ---
 ## 语言
 
 [![English](https://img.shields.io/badge/Language-English-blue.svg)](README_en.md)
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.md)
-
-## 写在前面
-
-### 更新摘要 (版本0.2.1~版本0.2.3)
-
-#### 1. 优化在移动端显示卡顿情况
-
-> 调整在移动端显示特效，减轻移动端卡顿情况
-
-#### 2. 增加各个页面对移动端适配
-
-> 实现首页、杂谈、归档等页面的移动端适配，增加移动端导航栏。
-
-#### 3. 关于新增动态
-
-> 可以看到提交记录
-
-#### 4. 友链介绍可修改
-
-> 现在你可以在控制台中编辑可复制信息了
-
-#### 5. 存在的几个bug修复
-
-> Start.dat闪退，标题无法修改问题已修复
-
-#### 6. 更新博客源码
-
-> 实现更新源码
 
 ## 一、快速开始部署
 
@@ -378,39 +355,12 @@ Vercel 默认会为你分配一个免费的二级域名：
 
 ---
 
-## 写在最后
-
-XHBLogs 还有诸多隐藏的细节功能，期待极客朋友们在实际使用中慢慢探索。本项目旨在提供一套开箱即用的前端静态展示与后台管理方案。如果你是资深开发者，觉得控制台操作仍有优化空间，完全可以基于 Next.js 源码进行二次开发，甚至手搓 Markdown 进行部署！
-
-**如果你觉得这个项目对你有帮助，请务必在 GitHub 上为我点亮一颗 ⭐ Star！每一颗星都是博主持续维护更新的最大动力。谢谢大家！**
 
 ## 许可证
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 > 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。允许免费学习、分享和二次修改后发布（二次开源发布需提及原作者），但**严禁用于任何商业用途**。
-
-## 之前更新日志 (版本0.1.1)
-
-#### 1. 标题页与图标更新
-
-> 实现自定义网页标题和图标按钮，详细见设置中的个人名片设置
-
-#### 2. 文章支持Latex格式
-
-> 实现Latex格式公式显示，具体使用如
->
-> 输入公式如 $ E = mc^2 $ 下划线需使用转义符"\\_"。
->
-> 此处感谢同学支持更新Latex公式显示 @inWunsch
-
-#### 3. 评论系统bug修复
-
-> 修复评论系统无法正常获取bug
-
-#### 4. siteconfig设置新增
-
-> 新增faviconUrl、navTitle等多项，更新同步拉取代码时请注意保存之前信息！！
 
 #### 5. 环境变量
 
